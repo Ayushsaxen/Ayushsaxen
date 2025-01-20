@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer and Shopify Expert from India</h3>
+<h3 align="center">A Passionate Full-Stack MERN Developer and Shopify Expert from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/4702278/developer_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsaxen&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaxen" /> </p>
