@@ -13,11 +13,9 @@
 - 📫 How to reach me: **ayushsaxena707@gmail.com**
 - ⚡ In my free time, I **explore new Technologies, improve Shopify customization skills, and listen to music**.
 
-<!-- Custom Line -->
 <p align="center">
-  People say there's no one like you, but I say if the whole world is a flower, then you are my sunflower forever, till the end of my life.
+ In English People say there's no one like you, or no one exists like you, but I say if the full world is a flower, then you are my sunflower forever for me, till the end of my life.
 </p>
-
 
 
 <h3 align="left">Connect with me:</h3>
