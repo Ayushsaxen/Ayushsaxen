@@ -13,6 +13,13 @@
 - 📫 How to reach me: **ayushsaxena707@gmail.com**
 - ⚡ In my free time, I **explore new Technologies, improve Shopify customization skills, and listen to music**.
 
+<!-- Custom Line -->
+<p align="center">
+  People say there's no one like you, but I say if the whole world is a flower, then you are my sunflower forever, till the end of my life.
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Ayush Saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush saxena" height="30" width="40" /></a>
@@ -44,7 +51,4 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsaxen&" alt="ayushsaxen" /></p>
 
-<!-- Custom Line -->
-<p align="center">
-  People say there's no one like you, but I say if the whole world is a flower, then you are my sunflower forever, till the end of my life.
-</p>
+
