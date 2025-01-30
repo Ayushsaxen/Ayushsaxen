@@ -8,13 +8,9 @@
 <p align="center"><strong>Coding is an open book test, so don't remember anything from scratch.</strong></p>
 
 - 🔭 I’m currently working on **MERN Stack and Shopify Projects**.
-
 - 🌱 Exploring advanced **JavaScript Frameworks** and **Shopify Liquid**.
-
 - 💬 Ask me about **MERN Stack, Shopify Theme Development**, and **RESTful APIs**.
-
 - 📫 How to reach me: **ayushsaxena707@gmail.com**
-
 - ⚡ In my free time, I **explore new Technologies, improve Shopify customization skills, and listen to music**.
 
 <h3 align="left">Connect with me:</h3>
@@ -30,6 +26,8 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -45,3 +43,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsaxen&show_icons=true&locale=en" alt="ayushsaxen" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsaxen&" alt="ayushsaxen" /></p>
+
+<!-- Custom Line -->
+<p align="center">
+  People say there's no one like you, but I say if the whole world is a flower, then you are my sunflower forever, till the end of my life.
+</p>
