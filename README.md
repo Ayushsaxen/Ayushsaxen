@@ -11,12 +11,11 @@
 - 🌱 Exploring advanced **JavaScript Frameworks** and **Shopify Liquid**.
 - 💬 Ask me about **MERN Stack, Shopify Theme Development**, and **RESTful APIs**.
 - 📫 How to reach me: **ayushsaxena707@gmail.com**
-- ⚡ In my free time, I **explore new Technologies, improve Shopify customization skills, and listen to music**.
+- ⚡ In my free time, I explore new Technologies, love to travel and write poetry.
 
 <p align="left">
- In English People say there's no one like you, or no one exists like you, but I say if the full world is a flower, then you are my sunflower forever for me, till the end of my life.
+ In English People say there's no one like you, but I say if the full world is a flower, then you are my sunflower forever for me, till the end of my life.
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +29,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
@@ -48,5 +48,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsaxen&show_icons=true&locale=en" alt="ayushsaxen" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsaxen&" alt="ayushsaxen" /></p>
-
-
