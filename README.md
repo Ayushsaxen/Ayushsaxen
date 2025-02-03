@@ -4,11 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsaxen&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaxen" /> </p>
 
-<!-- Add your custom line here -->
 <p align="center"><strong>Coding is an open book test, so don't remember anything from scratch.</strong></p>
 
 - 🔭 I’m currently working on **MERN Stack and Shopify Projects**.
-- 🌱 Exploring advanced **JavaScript Frameworks** and **Shopify Liquid**.
+- 🌱 Exploring advanced **JavaScript Frameworks**, **Shopify Liquid**, and **Python**.
 - 💬 Ask me about **MERN Stack, Shopify Theme Development**, and **RESTful APIs**.
 - 📫 How to reach me: **ayushsaxena707@gmail.com**
 - ⚡ In my free time, I explore new Technologies, love to travel and write poetry.
@@ -41,6 +40,8 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<!-- Added Python -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsaxen&show_icons=true&locale=en&layout=compact" alt="ayushsaxen" /></p>
