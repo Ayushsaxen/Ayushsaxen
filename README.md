@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **MERN Stack and Shopify Projects**.
 - 🌱 Exploring advanced **JavaScript Frameworks** and **Python**.
-- 💬 Ask me about **MERN Stack, Shopify Theme Development**, and **RESTful APIs**.
+- 💬 Ask me about **MERN Stack, Shopify Development**, and **RESTful APIs**.
 - 📫 How to reach me: **ayushsaxena707@gmail.com**
-- ⚡ In my free time, I explore new Technologies, love to travel and write poetry.
+- ⚡ In my free time, I explore new Technologies, love to travel, write poetry and listen Music.
 
 <p align="left">
  In English People say there's no one like you, but I say if the full world is a flower, then you are my sunflower forever for me, till the end of my life. &#10084;
