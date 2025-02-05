@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsaxen&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaxen" /> </p>
 
-<p align="center"><strong>Coding is an open book test, so don't remember anything from scratch.</strong></p>
+<p align="center"><strong>Coding is like an open book test, so don't remember anything from scratch.</strong></p>
 
 - 🔭 I’m currently working on **MERN Stack and Shopify Projects**.
 - 🌱 Exploring advanced **JavaScript Frameworks** and **Python**.
